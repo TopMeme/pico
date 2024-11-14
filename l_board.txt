@@ -1,3 +1,0 @@
-#1: .ncl7     -    Owner
-#2: Caperbelike - Admin
-#3: Gacktenzo - user
