@@ -1,0 +1,17 @@
+{
+	"song": {
+		"player1": "bf",
+		"gfVersion": "pico",
+		"notes": [],
+		"events": [],
+		"player2": "dad",
+		"splashSkin": "noteSplashes",
+		"song": "City",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"stage": "stage",
+		"validScore": true,
+		"bpm": 138,
+		"speed": 3.2
+	}
+}
